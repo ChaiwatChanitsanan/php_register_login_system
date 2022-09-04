@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "register_db";
+    $dbname = "register_db"; //database  มี id, username, email, password 4ฟิลด์
 
     //Create Connection
     $conn = mysqli_connect($servername,$username,$password,$dbname);
