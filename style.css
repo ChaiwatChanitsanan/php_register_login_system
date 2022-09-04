@@ -38,8 +38,27 @@ form {
     text-align: center;
     width: 100%;
     padding-top: 3rem;
-    background: #ccc;
+    background: #93ffae;
     height: 100vh;
+}
+
+#introduction {
+    text-align: left;
+    width: 100%;
+    background: #ccc;
+}
+
+#habitat {
+    text-align: left;
+    width: 100%;
+    background: #bbddc7;
+}
+
+#media {
+    padding-left: 30%;
+    width: 100%;
+    background: #b883ae;
+    display: inline-block;
 }
 
 .input-group {
